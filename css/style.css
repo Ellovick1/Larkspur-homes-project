@@ -22600,7 +22600,8 @@ button.toast-close-button {
 
 .footer-logo {
     display: block;
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    position: relative;
 }
 
 .table .success {
@@ -32940,7 +32941,8 @@ only screen and (min-resolution: 2dppx) and (max-width: 991px) {
 #footer.ev-footer #footer-logo {
     text-align: center;
     background-color: white;
-    margin-bottom: 0 !important
+    margin-bottom: 0 !important;
+    position: relative;
 }
 
 #footer.ev-footer .copyright-links.footer {
